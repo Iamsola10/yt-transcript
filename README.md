@@ -12,8 +12,9 @@ This project allows you to download audio from YouTube videos and save it to you
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/yt-audio-downloader.git
+git clone https://github.com/Iamsola10/yt-transcript.git
 cd yt-audio-downloader
+```
 
 2. Install the dependencies
 
