@@ -3,3 +3,4 @@ dist
 coverage    
 wrangler.toml
 yt-typescript/src/wrangler.toml
+.env
